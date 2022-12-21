@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi mundo, its me, Alex 👋
+## About Me
+- Aprendiz Nivel -0
+- Un poco old
+- y así
+
 
 <!--
 **aubeto/aubeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
