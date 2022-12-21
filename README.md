@@ -1,7 +1,7 @@
 # Hi mundo, its me, Alex 👋
 ## About Me
-- Aprendiz Nivel -0
-- Un poco old
+- Aprendiz Nivel 0
+- Un poco menos old
 - y así
 
 
